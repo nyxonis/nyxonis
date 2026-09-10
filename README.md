@@ -51,7 +51,7 @@
  
 
 ---
-![]([[https://komarev.com/ghpvc/?username=nyxonis&label=views&style=for-the-badge&color=blue&label=NYXONIS+PROFILE+VIEWS&abbreviated=true]
+![]([https://komarev.com/ghpvc/?username=nyxonis&label=views&style=for-the-badge&color=blue&label=NYXONIS+PROFILE+VIEWS&abbreviated=true]
 </div>
 
 <img src="./footer.svg" width="100%" alt="footer" />
