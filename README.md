@@ -10,10 +10,10 @@
 
 ---
 
-## 🛠 Stack
+## Stack
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,fastapi,django,js,ts,nodejs,react,nextjs,php" />
+<img src="https://skillicons.dev/icons?i=java,maven,python,fastapi,js,ts,nodejs,react,nextjs,php" />
 
 ### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,git,docker,linux,postman,idea,vscode" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **[`HillVelocity`](https://github.com/nyxonis/hillvelocity)**  
 **[`Nyxonis`](https://nyxonis.github.io)**
@@ -35,13 +35,13 @@
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyxonis&theme=dark&hide_border=true&background=0a0a0a&ring=666666&fire=aa5555&currStreakLabel=cccccc)
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="center">
   <a href="https://github.com/nyxonis" target="_blank">
