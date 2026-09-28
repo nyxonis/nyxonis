@@ -31,7 +31,7 @@
 
 **[`HillVelocity`](https://github.com/nyxonis/hillvelocity)**  
 **[`Nyxonis`](https://nyxonis.github.io)**
-**[`ETeam`](https://evilstoreshop.ir)**
+**[`SorenDevelopement`](https://github.com/sorendevelopments)**
 
 ---
 
